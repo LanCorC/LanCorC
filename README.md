@@ -16,8 +16,11 @@ It was after graduating with my BSc Biology that it occurred to me that programm
 
 In my spare time, you will find me playing video games and trying out all the mechanics it offers; I enjoy the mastery of knowing systems and executing them well. Let's see how I transfer this to programming!
 ## Experience
+Courses:
 * CS50: Introduction to Computer Science (_[Harvard/online](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)_)
 * Java 17 Masterclass: Start Coding in 2024 (_[Tim Buchalka/online](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=SEPTSTACK24A)_)
+
+Profiles
 * Leetcode (_[profile here](https://leetcode.com/u/LanCorC/)_)
 ## Tech Stack
 * Main: Java, SQLite
