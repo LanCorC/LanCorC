@@ -25,4 +25,4 @@ In my spare time, you will find me playing video games and trying out all the me
 ## Reach me!
 Reach out to this github profile, or send me an email here and let me know you found me! lanc3.corcega@gmail.com
 ## Projects
-Keep updated to see what I get up to below! #pinned
+Keep updated to see what I get up to below! [#pinned](https://github.com/LanCorC)
