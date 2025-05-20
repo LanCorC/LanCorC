@@ -23,7 +23,7 @@ Courses:
 Profiles
 * Leetcode (_[profile here](https://leetcode.com/u/LanCorC/)_)
 ## Tech Stack
-* Main: Java, HTML/CSS/Javascript
+* Main: Java, Javascript
 * Previously dabbled in courses: C, Python, SQLite
 ## Reach me!
 Reach out to this github profile, or send me an email here and let me know you found me! lanc3.corcega@gmail.com
