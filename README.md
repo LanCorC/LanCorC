@@ -9,7 +9,7 @@ LanCorC/LanCorC is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # It's nice to meet you!
-I am Lance, and my passion for learning has led me to the world of programming! 
+I am Lance, and my passion for learning has led me to the world of programming 🌱
 
 ## About Me 
 It was after graduating with my BSc Biology that it occurred to me that programming was an option, so here I am! 
@@ -28,4 +28,4 @@ Profiles
 ## Reach me!
 Reach out to this github profile, or send me an email here and let me know you found me! lanc3.corcega@gmail.com
 ## Projects
-Keep updated to see what I get up to below! [#pinned](https://github.com/LanCorC)
+Keep updated to see what I get up to below 👀 [#pinned](https://github.com/LanCorC)
