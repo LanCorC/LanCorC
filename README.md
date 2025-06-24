@@ -17,11 +17,13 @@ It was after graduating with my BSc Biology that it occurred to me that programm
 In my spare time, you will find me playing video games and trying out all the mechanics it offers; I enjoy the mastery of knowing systems and executing them well. Let's see how I transfer this to programming!
 ## Experience
 Courses:
-* CS50: Introduction to Computer Science (_[Harvard/online](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)_)
-* Java 17 Masterclass: Start Coding in 2024 (_[Tim Buchalka/online](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=SEPTSTACK24A)_)
+* CS50: Introduction to Computer Science (_[Harvard/online](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)_) [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+
+* Java 17 Masterclass: Start Coding in 2024 (_[Tim Buchalka/online](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=SEPTSTACK24A)_) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=SEPTSTACK24A)
+
 
 Profiles
-* Leetcode (_[profile here](https://leetcode.com/u/LanCorC/)_)
+* Leetcode (_[profile here](https://leetcode.com/u/LanCorC/)_) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/LanCorC/)
 ## Tech Stack
 * Main: Java, Javascript
 * Previously dabbled in courses: C, Python, SQLite
