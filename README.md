@@ -41,10 +41,10 @@ Keep updated to see what I get up to below 👀 [#pinned](https://github.com/Lan
   <img src="https://github.com/user-attachments/assets/848eb3bd-c3b0-48f5-bb8d-0c5b8149c27a">
 </p>
 
-### TicTacToe-Java
+### TicTacToe
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-[TicTacToe-Java](https://github.com/LanCorC/TicTacToe-Java) is a downloadable program written using JavaFX.
+[TicTacToe](https://github.com/LanCorC/TicTacToe-Java) is a downloadable program written using JavaFX.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d25bc79-d674-45e1-9fdc-2877d109112d">
 </p>
