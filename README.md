@@ -33,6 +33,8 @@ Reach out to this github profile, or send me an email here and let me know you f
 Keep updated to see what I get up to below 👀 [#pinned](https://github.com/LanCorC)
 
 ### LiveBoard
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 
 [LiveBoard](https://github.com/LanCorC/LiveBoard) is a web-based virtual tabletop, where you can get together with your friends and play Here To Slay online.
 <p align="center">
@@ -40,8 +42,9 @@ Keep updated to see what I get up to below 👀 [#pinned](https://github.com/Lan
 </p>
 
 ### TicTacToe-Java
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-[TicTacToe-Java] is a downloadable program written using JavaFX.
+[TicTacToe-Java](https://github.com/LanCorC/TicTacToe-Java) is a downloadable program written using JavaFX.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d25bc79-d674-45e1-9fdc-2877d109112d">
 </p>
