@@ -31,3 +31,17 @@ Profiles
 Reach out to this github profile, or send me an email here and let me know you found me! lanc3.corcega@gmail.com
 ## Projects
 Keep updated to see what I get up to below 👀 [#pinned](https://github.com/LanCorC)
+
+### LiveBoard
+
+[LiveBoard](https://github.com/LanCorC/LiveBoard) is a web-based virtual tabletop, where you can get together with your friends and play Here To Slay online.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/848eb3bd-c3b0-48f5-bb8d-0c5b8149c27a">
+</p>
+
+### TicTacToe-Java
+
+[TicTacToe-Java] is a downloadable program written using JavaFX.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d25bc79-d674-45e1-9fdc-2877d109112d">
+</p>
