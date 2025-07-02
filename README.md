@@ -14,7 +14,7 @@ I am Lance, and my passion for learning has led me to the world of programming ð
 ## About Me 
 It was after graduating with my BSc Biology that it occurred to me that programming was an option, so here I am! 
 
-In my spare time, you will find me playing video games and trying out all the mechanics it offers; I enjoy the mastery of knowing systems and executing them well. Let's see how I transfer this to programming!
+In my spare time, you will find me playing video games and trying out all the mechanics it offers; I enjoy the mastery of knowing systems and applying them well. Let's see how I transfer this to programming!
 ## Experience
 Courses:
 * CS50: Introduction to Computer Science (_[Harvard/online](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)_) [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
